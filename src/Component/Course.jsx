@@ -3,8 +3,8 @@ import { FaBookOpen } from 'react-icons/fa';
 import { TfiMoney } from 'react-icons/Tfi';
 
 const Course = ({ course, handleSelect }) => {
-  console.log(course);
-  console.log(handleSelect);
+  // console.log(course);
+  // console.log(handleSelect);
   const { image, course_name, course_details, course_price, course_credit } =
     course;
   return (
