@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.imgur.com/TDjam0s.png",
+    "course_name": "Introduction to OOP Python",
+    "course_credit": "3",
+    "course_price": 15000,
+    "course_details": "This course provides a comprehensive introduction to Object-Oriented Programming (OOP) in Python. Topics covered include classes, objects, inheritance, and more."
+  },
+  {
+    "id": 2,
+    "image": "https://i.imgur.com/xBlcUdU.png",
+    "course_name": "Database (MySQL)",
+    "course_credit": "4",
+    "course_price": 25000,
+    "course_details": "Learn the fundamentals of database management with MySQL. This course covers SQL queries, database design, and practical hands-on exercises."
+  },
+  {
+    "id": 3,
+    "image": "https://i.imgur.com/BOkIl1I.png",
+    "course_name": "Introduction to C Programming",
+    "course_credit": "3",
+    "course_price": 10000,
+    "course_details": "Get started with C programming, the foundation of many programming languages. Explore variables, loops, functions, and more."
+  },
+  {
+    "id": 4,
+    "image": "https://i.imgur.com/H3khJX0.png",
+    "course_name": "Introduction to Algorithms",
+    "course_credit": "4",
+    "course_price": 35000,
+    "course_details": "Study fundamental algorithms and data structures. Learn algorithm analysis and problem-solving techniques."
+  },
+  {
+    "id": 5,
+    "image": "https://i.imgur.com/hdezofi.png",
+    "course_name": "Introduction to C++ for DSA",
+    "course_credit": "3",
+    "course_price": 19000,
+    "course_details": "Discover C++ programming for Data Structures and Algorithms (DSA). Explore pointers, linked lists, and tree structures."
+  },
+  {
+    "id": 6,
+    "image": "https://i.imgur.com/EFvoJ3n.png",
+    "course_name": "Software Engineering",
+    "course_credit": "4",
+    "course_price": 23000,
+    "course_details": "Learn software engineering principles, including requirements engineering, software design, and project management."
+  },
+  {
+    "id": 7,
+    "image": "https://i.imgur.com/vmLKIA9.png",
+    "course_name": "Problem-Solving Part",
+    "course_credit": "2",
+    "course_price": 35000,
+    "course_details": "Enhance your problem-solving skills with this course. Practice algorithms, data structures, and problem-solving techniques."
+  },
+  {
+    "id": 8,
+    "image": "https://i.imgur.com/r5sud4Q.png",
+    "course_name": "Basic Data Structures",
+    "course_credit": "3",
+    "course_price": 19000,
+    "course_details": "Learn the basics of data structures, including arrays, stacks, queues, and linked lists. Build a strong foundation."
+  },
+  {
+    "id": 9,
+    "image": "https://i.imgur.com/HRqA7s2.png",
+    "course_name": "AWS, Cloud Computing",
+    "course_credit": "3",
+    "course_price": 23000,
+    "course_details": "Explore the world of AWS and Cloud Computing. Learn cloud infrastructure, services, and best practices for deploying applications in the cloud."
+  }
+]
