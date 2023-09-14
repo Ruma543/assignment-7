@@ -2,8 +2,9 @@ import React from 'react';
 import { FaBookOpen } from 'react-icons/fa';
 import { TfiMoney } from 'react-icons/Tfi';
 
-const Course = ({ course }) => {
+const Course = ({ course, handleSelect }) => {
   console.log(course);
+  console.log(handleSelect);
   const { image, course_name, course_details, course_price, course_credit } =
     course;
   return (
@@ -25,7 +26,10 @@ const Course = ({ course }) => {
           <p>Credit: {course_credit}</p>
         </div>
       </div>
-      <button className="w-full py-2 bg-blue-400 rounded-lg text-white">
+      <button
+        onClick={() => handleSelect(course)}
+        className="w-full py-2 bg-blue-400 rounded-lg text-white"
+      >
         Select
       </button>
     </div>
