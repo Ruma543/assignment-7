@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "image": "https://i.imgur.com/TDjam0s.png",
+    "image": "https://i.imgur.com/MLyz6v7.png",
     "course_name": "Introduction to OOP Python",
     "course_credit": "3",
     "course_price": 15000,
-    "course_details": "This course provides a comprehensive introduction to Object-Oriented Programming (OOP) in Python. Topics covered include classes, objects, inheritance, and more."
+    "course_details": "This course provides a comprehensive introduction to Object-Oriented Programming (OOP) in Python."
   },
   {
     "id": 2,
-    "image": "https://i.imgur.com/xBlcUdU.png",
+    "image": "https://i.imgur.com/Zmtv1f8.png",
     "course_name": "Database (MySQL)",
     "course_credit": "4",
     "course_price": 25000,
@@ -17,15 +17,15 @@
   },
   {
     "id": 3,
-    "image": "https://i.imgur.com/BOkIl1I.png",
-    "course_name": "Introduction to C Programming",
+    "image": "https://i.imgur.com/MOJpduz.png",
+    "course_name": "Introduction C Programming",
     "course_credit": "3",
     "course_price": 10000,
     "course_details": "Get started with C programming, the foundation of many programming languages. Explore variables, loops, functions, and more."
   },
   {
     "id": 4,
-    "image": "https://i.imgur.com/H3khJX0.png",
+    "image": "https://i.imgur.com/SMvIPek.png",
     "course_name": "Introduction to Algorithms",
     "course_credit": "4",
     "course_price": 35000,
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "image": "https://i.imgur.com/hdezofi.png",
+    "image": "https://i.imgur.com/4e8wBAq.png",
     "course_name": "Introduction to C++ for DSA",
     "course_credit": "3",
     "course_price": 19000,
