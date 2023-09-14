@@ -1,12 +1,13 @@
 import React from 'react';
 
-const Cart = ({ cart }) => {
-  console.log(cart);
+const Cart = ({ cart, index }) => {
+  // console.log(cart);
+
   const { course_name } = cart;
   return (
     <div>
       <ol>
-        <li>{course_name}</li>
+        <li className="text-left">{`${index + 1}. ${course_name}`}</li>
       </ol>
     </div>
   );
