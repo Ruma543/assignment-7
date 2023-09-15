@@ -11,8 +11,6 @@ function App() {
   const [hour, setHour] = useState(0);
   const [price, setPrice] = useState(0);
 
-  // const limit = 20;
-
   const handleSelect = course => {
     let newRemainingHour = remainingHour;
     let newHour = hour;
@@ -25,15 +23,14 @@ function App() {
         position: toast.POSITION.TOP_RIGHT,
       });
     } else {
-      if (newRemainingHour <= 0) {
+      newHour += parseInt(course.course_credit);
+      newPrice += course.course_price;
+      newRemainingHour -= course.course_credit;
+      if (newRemainingHour <= 0 && newHour > 20) {
         toast.error('You are out of your hour limit', {
           position: toast.POSITION.TOP_RIGHT,
         });
       } else {
-        newHour += parseInt(course.course_credit);
-        newPrice += course.course_price;
-        newRemainingHour -= course.course_credit;
-
         setHour(newHour);
         setPrice(newPrice);
         setRemainingHour(newRemainingHour);

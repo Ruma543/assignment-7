@@ -3,7 +3,7 @@
     "id": 1,
     "image": "https://i.imgur.com/MLyz6v7.png",
     "course_name": "Introduction to OOP Python",
-    "course_credit": "3",
+    "course_credit": "5",
     "course_price": 15000,
     "course_details": "This course provides a comprehensive introduction to Object-Oriented Programming (OOP) in Python."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "image": "https://i.imgur.com/4e8wBAq.png",
     "course_name": "Introduction to C++ for DSA",
-    "course_credit": "3",
+    "course_credit": "10",
     "course_price": 19000,
     "course_details": "Discover C++ programming for Data Structures and Algorithms (DSA). Explore pointers, linked lists, and tree structures."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "image": "https://i.imgur.com/vmLKIA9.png",
     "course_name": "Problem-Solving Part",
-    "course_credit": "2",
+    "course_credit": "5",
     "course_price": 35000,
     "course_details": "Enhance your problem-solving skills with this course. Practice algorithms, data structures, and problem-solving techniques."
   },
