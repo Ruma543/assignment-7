@@ -25,7 +25,7 @@ const Course = ({ course, handleSelect }) => {
           <span className="text-sm">
             <FaBookOpen></FaBookOpen>
           </span>
-          <p>Credit: {course_credit}</p>
+          <p>Credit: {course_credit} hr</p>
         </div>
       </div>
       <button

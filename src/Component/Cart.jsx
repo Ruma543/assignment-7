@@ -5,7 +5,7 @@ const Cart = ({ cart, index }) => {
 
   const { course_name } = cart;
   return (
-    <div>
+    <div className="px-3">
       <ol>
         <li className="text-left">{`${index + 1}. ${course_name}`}</li>
       </ol>

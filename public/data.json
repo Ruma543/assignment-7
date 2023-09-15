@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "image": "https://i.imgur.com/EFvoJ3n.png",
+    "image": "https://i.imgur.com/Ul5bSZE.png",
     "course_name": "Software Engineering",
     "course_credit": "4",
     "course_price": 23000,
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "image": "https://i.imgur.com/vmLKIA9.png",
+    "image": "https://i.imgur.com/5FmILp4.png",
     "course_name": "Problem-Solving Part",
     "course_credit": "5",
     "course_price": 35000,
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "image": "https://i.imgur.com/HRqA7s2.png",
+    "image": "https://i.imgur.com/Sv2qaUA.png",
     "course_name": "AWS, Cloud Computing",
     "course_credit": "3",
     "course_price": 23000,
