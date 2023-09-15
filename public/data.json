@@ -17,8 +17,8 @@
   },
   {
     "id": 3,
-    "image": "https://i.imgur.com/MOJpduz.png",
-    "course_name": "https://i.imgur.com/k3UkvgO.png",
+    "image": "https://i.imgur.com/k3UkvgO.png",
+    "course_name": "Introduction C Programming",
     "course_credit": "3",
     "course_price": 10000,
     "course_details": "Get started with C programming, the foundation of many programming languages. Explore variables, loops, functions, and more."
