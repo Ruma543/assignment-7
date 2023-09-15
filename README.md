@@ -33,3 +33,11 @@ selectCarts,remainingHour,hour,price.
    selected courses.
 
 5. price: It stores the total price of the selected courses.
+
+Updating State:
+
+State is updated using the set functions based on user interactions. In this
+Project, when a user selects a course in the Courses component, the handleSelect
+function in App.jsx is called. Inside this function, state variables like hour,
+price, remainingHour, and selectCarts are updated as needed based on the user's
+selection.
